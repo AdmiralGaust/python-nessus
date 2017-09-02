@@ -16,7 +16,7 @@ git clone https://github.com/AdmiralGaust/python-nessus.git
 cd python-nessus
 sudo chmod u+x python-nessus
 PATH=$PATH:/path/to/current_directory
-pip install -r dependencies.txt
+pip install requests argparse termcolor
 ```
 In case something not works, you can simply copy the python-nessus file to a text editor and save it as **_python-nessus.py_**
 After saving the file, install the *dependencies* by typing `pip install requests argparse termcolor`
