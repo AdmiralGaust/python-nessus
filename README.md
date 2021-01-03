@@ -51,4 +51,4 @@ To configure the User-defined policy prior to launching the scan
 
 >`python-nessus -t target_ip -p "policy_name" --configure -e nessus`
 # SUPPORT
-For any query or suggestions, please contact me at admiralgaust@gmail.com
+For any query or suggestions, feel free to connect me at admiralgaust@gmail.com
