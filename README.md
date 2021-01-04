@@ -70,4 +70,4 @@ python-nessus -t target_ip -p "policy_name" --configure -e nessus
 ```
 
 ## SUPPORT
-For any queries or suggestions, feel free to connect me at admiralgaust@gmail.com
+For any queries, suggestions, or improvements feel free to create an issue or submit a pull request.
