@@ -1,6 +1,6 @@
 ## Python-nessus
 
-python-nessus is a **command line utility** written in *python*, which provides the user facility to *automate vulnerability scanning using Nessus REST API*.
+python-nessus is a **Rest Api Client** written in *python*, which provides the user facility to *automate vulnerability scanning using Nessus REST API*.
 
 Depending on the flag issued, it can *list all policies*, *create and launch the scan*, *configure the user-defined policy prior to launching the scan* and *export the report in all available formats* except for pdf. The command line utility has the *power* to do all this just by entering a single command.
 
